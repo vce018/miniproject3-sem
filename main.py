@@ -21,7 +21,7 @@ powerpoint.Visible = True
 
 
 # Open the PowerPoint file
-presentation = powerpoint.Presentations.Open(r'C:\Users\gadam_\OneDrive\Desktop\MINI PROJECT\presentation1\Trees-1.pptx', WithWindow=True)
+presentation = powerpoint.Presentations.Open(r'MINI PROJECT PRESENTATION.ppt', WithWindow=True)
 
 
 presentation.SlideShowSettings.Run()
